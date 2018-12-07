@@ -1,4 +1,4 @@
 # sfg-pet-clinic
-SFT Pet Clinic
+SFG Pet Clinic
 
-Sample application
+Sample Pet Clinic application
